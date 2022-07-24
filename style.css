@@ -1,0 +1,44 @@
+body {
+    background-color:beige;
+    
+}
+
+.logo  {
+    margin-top: 5px;
+	margin-left: 30px;
+
+}
+
+.titulo1 {
+    margin-top: 5px;
+	margin-left: 30px;
+    font-size: 30px;
+    font-family: cursive;
+    color: brown;
+    
+}
+
+.titulo2 {
+    margin-top: 5px;
+	margin-left: 30px;
+    font-size: 20px;
+    font-family: cursive;
+    color:brown;
+
+}
+
+.titulo3 {
+    margin-top: 5px;
+	margin-left: 30px;
+    font-size: 13px;
+    font-family: cursive;
+    color: black;
+
+}
+
+.rodape {
+    font-size: 15px;
+    font-family: cursive;
+    color:brown;
+
+}
